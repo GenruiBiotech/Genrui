@@ -2,7 +2,7 @@
 锦瑞通用
 
 # 联系方式
-Email: 396678079@qq.com
+Email: hzm1128@126.com
 
 # 编译
 Based on Qt 4.8.5 (GCC 4.9.2 20140904, 32 bit)
